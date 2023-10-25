@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vjezbaString5", "vjezbaString5.csproj", "{3D2444F6-62C4-4562-BF28-C89752EA4768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2444F6-62C4-4562-BF28-C89752EA4768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2444F6-62C4-4562-BF28-C89752EA4768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2444F6-62C4-4562-BF28-C89752EA4768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2444F6-62C4-4562-BF28-C89752EA4768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA8B50A-75A0-4C66-A010-3F8BF49DA55B}
+	EndGlobalSection
+EndGlobal
